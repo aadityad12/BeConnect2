@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.beconnect.app-mergeDebugResources-37:/layout/item_beacon.xml",
+        "source": "com.beconnect.app-main-40:/layout/item_beacon.xml"
+    },
+    {
+        "merged": "com.beconnect.app-mergeDebugResources-37:/layout/activity_mode_select.xml",
+        "source": "com.beconnect.app-main-40:/layout/activity_mode_select.xml"
+    },
+    {
+        "merged": "com.beconnect.app-mergeDebugResources-37:/layout/activity_gateway.xml",
+        "source": "com.beconnect.app-main-40:/layout/activity_gateway.xml"
+    },
+    {
+        "merged": "com.beconnect.app-mergeDebugResources-37:/layout/activity_receiver.xml",
+        "source": "com.beconnect.app-main-40:/layout/activity_receiver.xml"
+    },
+    {
+        "merged": "com.beconnect.app-mergeDebugResources-37:/layout/activity_alert_detail.xml",
+        "source": "com.beconnect.app-main-40:/layout/activity_alert_detail.xml"
+    }
+]

@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color red_700
+color red_900
+color white
+drawable ic_launcher_foreground
+id btn_broadcast
+id btn_demo
+id btn_fetch
+id btn_gateway
+id btn_read_aloud
+id btn_receiver
+id btn_scan
+id card_alert
+id progress_bar
+id rv_beacons
+id tv_address
+id tv_expires
+id tv_headline
+id tv_instructions
+id tv_last_seen
+id tv_rssi
+id tv_severity
+id tv_source
+id tv_status
+id tv_verified
+layout activity_alert_detail
+layout activity_gateway
+layout activity_mode_select
+layout activity_receiver
+layout item_beacon
+string app_name
+style Theme.BeConnect

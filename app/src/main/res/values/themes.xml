@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BeConnect" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/red_700</item>
+        <item name="colorPrimaryVariant">@color/red_900</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

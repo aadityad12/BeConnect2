@@ -1,0 +1,5 @@
+com.beconnect.test.app-core-1.6.0-0 /Users/shahxsheel/.gradle/caches/9.3.1/transforms/c478db614558975029e27389ba98ccb0/transformed/core-1.6.0/res
+com.beconnect.test.app-androidTest-1 /Users/shahxsheel/Codes/BeConnect/app/build/generated/res/resValues/androidTest/debug
+com.beconnect.test.app-mergeDebugAndroidTestResources-2 /Users/shahxsheel/Codes/BeConnect/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.beconnect.test.app-mergeDebugAndroidTestResources-3 /Users/shahxsheel/Codes/BeConnect/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.beconnect.test.app-debugAndroidTest-4 /Users/shahxsheel/Codes/BeConnect/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
